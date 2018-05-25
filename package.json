@@ -1,0 +1,16 @@
+{
+  "name": "mb-legend",
+  "version": "1.0.0",
+  "description": "Generate a SVG legend from mapbox style json.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mapbox",
+    "style",
+    "legend"
+  ],
+  "author": "wanyanyan",
+  "license": "ISC"
+}
